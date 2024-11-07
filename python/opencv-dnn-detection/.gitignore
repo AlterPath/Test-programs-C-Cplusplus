@@ -1,0 +1,8 @@
+# веса моделей и исходные фото не публикуются
+*.weights
+*.pb
+*.pbtxt
+*.cfg
+coco.names
+*.jpg
+.ipynb_checkpoints/
