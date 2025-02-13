@@ -1,0 +1,8 @@
+# результаты сборки VMLAB
+*.hex
+*.lis
+*.map
+*.obj
+*.ly1
+_asm.err
+_trace.dat
