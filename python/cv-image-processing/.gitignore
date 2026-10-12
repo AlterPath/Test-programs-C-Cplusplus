@@ -1,0 +1,6 @@
+# исходные фотографии не публикуются
+*.jpg
+*.JPG
+*.jpeg
+/*.png
+.ipynb_checkpoints/
