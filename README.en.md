@@ -40,3 +40,7 @@ C, C++, POSIX threads, B&R Automation Studio, AVR assembler, GNU Octave, Scilab 
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The first-year labs (`c-cpp/first-year`) were published on GitHub in February 2023. The other work, the READMEs and figures were added in November 2026; the dates of their commits follow the dates of the original files. The quotes in control theory lab 1 were fixed at the same time.</sub>
